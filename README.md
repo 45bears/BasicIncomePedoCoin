@@ -1,6 +1,8 @@
 # BasicIncomePedoCoin
 
-## Not just receive but walk and ean the daily
+## Not just receive but walk and earn the daily income.
+Health or happiness “point”, that is PedoCoin, becomes the scale of availability and replace money.<br>
+Exercise will be the way to exercise the privilege.
 
 ### Feature
 1. Based on the blockchain.<br>
